@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🏫 I’m currently studying at School of Software, Tsinghua University.
 - 📫 How to reach me: zoulw22@mails.tsinghua.edu.cn
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Photooon&theme=dark"/></a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Photooon&theme=react"/></a>
 <br></br>
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Photooon&theme=dark"/></a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Photooon&theme=react"/></a>
