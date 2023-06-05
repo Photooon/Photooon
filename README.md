@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🏫 I’m currently studying at School of Software, Tsinghua University.
 - 📫 How to reach me: zoulw22@mails.tsinghua.edu.cn
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Photooon)](https://github.com/anuraghazra/github-readme-stats)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Photooon&theme=react&line_height=40&hide=css"/> </a>
