@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏫 I’m currently studying at School of Software, Tsinghua University.
+- 📫 How to reach me: zoulw22@mails.tsinghua.edu.cn
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Photooon)](https://github.com/anuraghazra/github-readme-stats)
