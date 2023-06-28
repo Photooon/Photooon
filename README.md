@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 📈 **Here is my Github Stats:**
 
-| <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Photooon&theme=react"/> | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Photooon&theme=react"/> |
+| <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Photooon&theme=react" align="center"/> | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Photooon&theme=react" align="center"/> |
 | ------------- | ------------- |
 
 ![snake gif](https://github.com/Photooon/Photooon/blob/output/github-contribution-grid-snake.gif)
