@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Photooon&count_private=true&hide_border=true&show_icons=true" align="center"/> | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Photooon&layout=compact&hide_border=true" align="center"/> |
 | ------------- | ------------- |
 
-![snake gif](https://github.com/Photooon/Photooon/blob/output/github-contribution-grid-snake.gif)
+ <!-- ![snake gif](https://github.com/Photooon/Photooon/blob/output/github-contribution-grid-snake.gif) -->
