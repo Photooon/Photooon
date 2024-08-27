@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🏫 I’m currently studying at School of Software, Tsinghua University.
-- 🌱 I’m currently learning **Reinforcement Learning** and **Systems for ML**.
 - 📫 How to reach me: zoulw22@mails.tsinghua.edu.cn
 - 📃 More information in [Homepage](https://photooon.github.io/).
 
